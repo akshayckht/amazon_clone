@@ -138,7 +138,7 @@
     justify-content: center;
 }
 
-/**************************************************************/
+/*___________________________________________________________*/
 
 /*panel*/
 .panel{
@@ -184,7 +184,7 @@
     border:1px solid white;
 }
 
-/************************************************/
+/*______________________________________________________*/
 
 .hero{
     display: flex;
@@ -232,11 +232,176 @@
     grid-template-rows: 420px 420px;
     gap: 12px;
 }
-
 .box{
     border: none;
     background-color: #FFFFFF;
 }
+
+/*.box1{*/
+/*    display: flex;*/
+/*    flex-direction: column;*/
+/*    align-items: center;*/
+/*    justify-content: center;*/
+/*}*/
+
+.box-flex{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.box1-img{
+
+    height: 378px;
+    width: 303px;
+    background-image: url("/image/Fuji_Gaming_SingleImageCard_C-1._SY304_CB762596570_.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.box2-img{
+
+    height: 378px;
+    width: 303px;
+    background-image: url("/image/sdunrecmob._CB761612938_.gif");
+    background-position: center;
+    background-size: cover;
+}
+
+.box3-img{
+
+    height: 378px;
+    width: 303px;
+    background-image: url("/image/71lT7co+ECL._AC_UF894,1000_QL80_.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.box4-img{
+
+    height: 378px;
+    width: 303px;
+    background-image: url("/image/small-kitchen-appliances-dp-1024x723.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.heading-box{
+    margin-top: 30px;
+    margin-bottom: 20px;
+
+}
+.see-more{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: 0.9rem;
+}
+
+
+
+
+
+
+
+/*________________________________________________________________________________*/
+
+/*footer*/
+
+.footer-back-to-top{
+    height: 49px;
+    width: 100%;
+    background-color: #485769;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer-back-to-top a{
+    color: #ffffff;
+    text-decoration: none;
+
+}
+
+.footer-list{
+    height: 400px;
+    width: 100%;
+    background-color: #232F3E;
+    color: #efefef;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 120px;
+    font-size: 0.8rem;
+    line-height: 2;
+    padding-top: 100px;
+}
+
+.lower-footer{
+    height: 100px;
+    width: 100%;
+    background-color: #232F3E;
+    border-top: 1px solid rgba(255,255,255,0.15);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+
+/*.lower-footer img{*/
+/*    padding-right: 20px;*/
+/*}*/
+
+.language{
+    height: 33px;
+    width: 132px;
+    color: #efefef;
+    border: 1px solid #efefef80;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    font-size: 0.8rem;
+    border-radius: 2px;
+}
+
+.currency{
+
+    height: 33px;
+    width: 152px;
+    color: #efefef;
+    border: 1px solid #efefef80;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    font-size: 0.8rem;
+    border-radius: 2px;
+}
+
+.country{
+
+    height: 33px;
+    width: 132px;
+    color: #efefef;
+    border: 1px solid #efefef80;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    font-size: 0.8rem;
+    border-radius: 2px;
+}
+
+.country img{
+    height: 12px;
+    width: 18px;
+}
+
+
+
+
 
 
 
