@@ -288,6 +288,51 @@
     background-size: cover;
 }
 
+.box5-img{
+
+    height: 378px;
+    width: 303px;
+    background-image: url("/image/81nglyt0ftL._AC_UF1000,1000_QL80_.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.box6-img{
+
+    height: 378px;
+    width: 303px;
+    background-image: url("/image/81TsZeG0KYL._AC_UY1100_.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.box7-img{
+
+    height: 378px;
+    width: 303px;
+    background-image: url("/image/Screenshot from 2026-05-29 17-38-01.png");
+    background-position: center;
+    background-size: cover;
+}
+
+.box7-img{
+
+    height: 378px;
+    width: 303px;
+    background-image: url("/image/Screenshot from 2026-05-29 17-38-01.png");
+    background-position: center;
+    background-size: cover;
+}
+
+.box8-img{
+
+    height: 378px;
+    width: 303px;
+    background-image: url("/image/Screenshot from 2026-05-29 17-42-58.png");
+    background-position: center;
+    background-size: cover;
+}
+
 .heading-box{
     margin-top: 30px;
     margin-bottom: 20px;
@@ -299,7 +344,28 @@
     font-size: 0.9rem;
 }
 
+.horizontal{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
 
+}
+
+.horizontal-row1{
+    height: 281px;
+    width: 1441px;
+    background-color: #ffffff;
+
+
+}
+
+.horizontal-row2{
+    height: 281px;
+    width: 1441px;
+    background-color: #ffffff;
+    margin-bottom: 20px;
+}
 
 
 
@@ -399,7 +465,15 @@
     width: 18px;
 }
 
+.footer-list a{
+    text-decoration: none;
+    color: #efefef;
+}
 
+.footer-list a:hover{
+    text-decoration: underline;
+    color: #efefef;
+}
 
 
 
