@@ -37,7 +37,7 @@
 }
 
 .logo{
-    background-image: url(/image/amazon_logo.png);
+    background-image: url(./image/amazon_logo.png);
     height: 50px;
     width: 100px;
     background-size: cover;
@@ -198,7 +198,7 @@
 
     height: 400px;
     width: 1500px;
-    background-image: url("/image/hero_section.jpg");
+    background-image: url("./image/hero_section.jpg");
     background-size: cover;
     display: flex;
     flex-direction: row;
@@ -256,7 +256,7 @@
 
     height: 378px;
     width: 303px;
-    background-image: url("/image/Fuji_Gaming_SingleImageCard_C-1._SY304_CB762596570_.jpg");
+    background-image: url("./image/Fuji_Gaming_SingleImageCard_C-1._SY304_CB762596570_.jpg");
     background-position: center;
     background-size: cover;
 }
@@ -265,7 +265,7 @@
 
     height: 378px;
     width: 303px;
-    background-image: url("/image/sdunrecmob._CB761612938_.gif");
+    background-image: url("./image/sdunrecmob._CB761612938_.gif");
     background-position: center;
     background-size: cover;
 }
@@ -274,7 +274,7 @@
 
     height: 378px;
     width: 303px;
-    background-image: url("/image/71lT7co+ECL._AC_UF894,1000_QL80_.jpg");
+    background-image: url("./image/71lT7co+ECL._AC_UF894,1000_QL80_.jpg");
     background-position: center;
     background-size: cover;
 }
@@ -283,7 +283,7 @@
 
     height: 378px;
     width: 303px;
-    background-image: url("/image/small-kitchen-appliances-dp-1024x723.jpg");
+    background-image: url("./image/small-kitchen-appliances-dp-1024x723.jpg");
     background-position: center;
     background-size: cover;
 }
@@ -292,7 +292,7 @@
 
     height: 378px;
     width: 303px;
-    background-image: url("/image/81nglyt0ftL._AC_UF1000,1000_QL80_.jpg");
+    background-image: url("./image/81nglyt0ftL._AC_UF1000,1000_QL80_.jpg");
     background-position: center;
     background-size: cover;
 }
@@ -301,7 +301,7 @@
 
     height: 378px;
     width: 303px;
-    background-image: url("/image/81TsZeG0KYL._AC_UY1100_.jpg");
+    background-image: url("./image/81TsZeG0KYL._AC_UY1100_.jpg");
     background-position: center;
     background-size: cover;
 }
@@ -310,7 +310,7 @@
 
     height: 378px;
     width: 303px;
-    background-image: url("/image/Screenshot from 2026-05-29 17-38-01.png");
+    background-image: url("./image/Screenshot from 2026-05-29 17-38-01.png");
     background-position: center;
     background-size: cover;
 }
@@ -319,7 +319,7 @@
 
     height: 378px;
     width: 303px;
-    background-image: url("/image/Screenshot from 2026-05-29 17-38-01.png");
+    background-image: url("./image/Screenshot from 2026-05-29 17-38-01.png");
     background-position: center;
     background-size: cover;
 }
@@ -328,7 +328,7 @@
 
     height: 378px;
     width: 303px;
-    background-image: url("/image/Screenshot from 2026-05-29 17-42-58.png");
+    background-image: url("./image/Screenshot from 2026-05-29 17-42-58.png");
     background-position: center;
     background-size: cover;
 }
